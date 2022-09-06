@@ -31,4 +31,4 @@ this.showInfos = function(){
 const emp1 = new Employee("Jack",25,5800)
 const emp2 = new Employee("Hanry",18,7500)
 
-emp1.showInfos();
+emp1.showInfos(); 
